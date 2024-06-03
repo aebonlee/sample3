@@ -1,4 +1,4 @@
 # sample3
 
 
-vodka.jobability.co.kr
+http://sample03.jobability.co.kr/
